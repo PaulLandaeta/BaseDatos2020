@@ -155,3 +155,10 @@ select column1,column2
 from table1 
 Right join table2 on table1.column = table2.column
 ```
+
+## Ejercicios Propuestos 
+Mostrar el usuario y nombre de los empleados.
+Mostrar el atributo email como correo, de los usuarios activos.
+Contar las publicaciones que hizo 'Eric G. Coronel Castillo'.
+Sumar los precios de las ventas del empleado EMILIO.
+
