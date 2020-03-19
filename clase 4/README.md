@@ -157,8 +157,8 @@ Right join table2 on table1.column = table2.column
 ```
 
 ## Ejercicios Propuestos 
-Mostrar el usuario y nombre de los empleados.
-Mostrar el atributo email como correo, de los usuarios activos.
-Contar las publicaciones que hizo 'Eric G. Coronel Castillo'.
-Sumar los precios de las ventas del empleado EMILIO.
+1. Mostrar el usuario y nombre de los empleados.
+2. Mostrar el atributo email como correo, de los usuarios activos.
+3. Contar las publicaciones que hizo 'Eric G. Coronel Castillo'.
+4. Sumar los precios de las ventas del empleado EMILIO.
 
