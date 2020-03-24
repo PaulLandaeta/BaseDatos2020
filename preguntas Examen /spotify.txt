@@ -1,0 +1,40 @@
+1. 
+a) Listar los usuarios alfabeticamente que tengan una 'k' en su username.
+b) Mostrar las canciones que se encuentran por encima del promedio de popularidad(usar el atributo plays).
+c) Listar todas las canciones de los albumes que canta un artista del genero Pop.
+2.
+a) Mostrar en nombre de artista que canta canciones del genero rock.
+b) Listar el nombre del album de las canciones mayores a 5 minutos.
+c) Mostrar el nombre del artista mas popular (mayor cantidad de plays). 
+3. 
+a) Mostrar todas las canciones de menor a mayor duracion. 
+b) Contar las canciones del genero Folk. 
+c) Obtener el promedio de duracion de las canciones del artista 'Goofy'.
+4. 
+a) Mostrar alfabeticamente los artistas que incluyen en el titulo de su cancion una o mas 'n'.
+b) Mostrar las canciones que se encuentran debajo del promedio de popularidad(usar el atributo plays).
+c) Contar el numero de canciones que tiene el album 'Summer Hits' del artista 'Bart Simpson'.
+5. 
+a) Mostrar los nombres del artistas por orden de popularidad de menor a mayor.
+b) Mostrar el nombre del album de las canciones que terminen con 'y'.
+c) Obtener el nombre del album, cancion y artista con la popularidad por encima del promedio. 
+6. 
+a) Obtener el nombre completo de los usuarios con correo yahoo.
+b) Mostrar el nombre del album con la cancion mas corta de duracion. 
+c) Contar el numero de canciones por genero musical. 
+7. 
+a) Mostrar el nombre del album de las canciones que empiecen con 'S'.
+b) Contar todas las canciones del genero Hip-Hop, Pop y Rap.
+c) Mostrar al artista y su cancion con mayor popularidad. 
+8. 
+a) Listar el nombre del album de las canciones menores a 5 minutos.
+b) Mostrar  o los owners con el playlist que tenga la cancion 'Extreme Action'
+c) Mostrar los albumes del artista mas popular (mayor cantidad de plays)
+9.
+a) Mostrar las canciones de los albumes que terminen con 's'
+b) Mostrar los nombres del artistas por orden de popularidad
+c) Obtener el promedio de duracion de las canciones del artista 'Mickey Mouse'
+10.
+a) Mostrar el nombre del artista que tiene como titulo de imagen de su album 'ukulele.jpg'
+b) Mostrar el nombre del album de las canciones que tengan una 'f' en su nombre
+c) Mostrar el nombre del artista menos popular (menor cantidad de plays)

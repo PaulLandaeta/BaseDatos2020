@@ -1,0 +1,32 @@
+1.
+a) Mostrar el nombre y fuerza de los jugadores que tenga al menos una L en su nombre
+b) Contar el numero de jugadores del Chelsea.
+c) Mostrar el puntaje para patear penales del jugador mas viejo.
+2.
+a) Mostrar de forma ascendente los nombres de losjugadores dependiendo su aceleracion
+b) Mostrar los nombres de los jugadores de mayor a menor si su nombre contiene la letra 'L' en su nombre.
+c) Obtener el nombre del jugador con mas fuerza. 
+3.
+a) Mostrar los nombres de jugadores on orden de mejor a peor para pases cortos(short_pass).
+b) Contar el numero de jugadores mayores a 25 años que juegan en FC Bayern Munich
+c) Obtener los nombres de los jugadores y el equipo que tienen su aceleracion por encima del promedio
+4.
+a) Contar el numero de argentinos que juegan en FC Barcelona
+b) Mostrar los salarios y nombres de los jugadores que ganan menos que el promedio.
+c) Obtener los nombres de los jugadores que tienen un control de la pelota debajo del promedio
+5. 
+a) Mostrar el jugador y equipo del jugador con mayor salario.
+b) Mostrar los nombres de los jugadores de mayor a menor si su club contiene la letra 'u' en su nombre.
+c) Contar el nuumero de jugadores del equipo Juventus.
+6. 
+a) Mostrar los jugadores con mas de 10 penalties. 
+b) Mostrar el nombre y fuerza de los jugadores que tenga al menos una L en su nombre
+c) Obtener el promedio de short pass de los jugadores mayores a 25 años .
+7.
+a) Contar el numero de jugadores del club Manchester City
+b) Mostrar el nombre y edad del jugado mas joven del Real Madrid CF.
+c) Obtener el nombre de equipo del mejor pateador de penales.
+8. 
+a) Obtener el nombre de los jugadores con una capacidad mayor a 80 como arqueros (gk)
+b) Mostrar de forma ascendente los nombres de losjugadores dependiendo su aceleracion
+c) Obtener el promedio de salario de los jugadores de 20 a 25 años 

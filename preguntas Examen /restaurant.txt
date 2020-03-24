@@ -1,0 +1,40 @@
+1.
+a) Obtener la comida con el menor descuento.
+b) Contar el numero de ordenes de la tienda con direccion 1111 Main St.
+c) Obtener el nombre del item e ingrediente que se usan una cantidad menor a 6.
+2.
+a) Sumar los precios de todos los ingredientes que tengan al menos una 'a' en su nombre
+b) Mostrar el nombre de la comida y del item que tengan el mayor descuento.
+c) Mostrar alfabeticamente los nombres de los ingredientes si el nombre del vendedor termina con y.
+3.
+a) Contar el numero de ingredientes de tipo Vegetable.
+b) Obtener los ingredientes de los proveedores que fueron recomendados 
+c) Mostrar las tiendas que tienen ordenes por encima del promedio del precio.
+4. 
+a) Obtener el total del inventario de los ingredientes de tipo slice. 
+b) Mostrar el nombre del item y el descuento de Chicken N Suds
+c) Obtener el promedio de la cantidad de ingredientes e items cuando el nombre del ingrediente contiene al menos una 'c'
+5.
+a) Mostrar el nombre de la comida y del item que tengan un descuento menos a 0.02
+b) Mostrar la orden mas barata de las tiendas que se encuentran el estado de Texas 'TX'.
+c) Sumar la cantidad usada con los ingredientes que el nombre empiece con S
+6.
+a) Obtener el nombre del ingrediente mas barato 
+b) Mostrar las ordendes alfabeticamente de la ciudad de Waco
+c) Mostrar las tiendas que tienen ordenes por debajo del promedio del precio.
+7.
+a) Contar el numero de ordenes de la tienda con direccion 3333 3rd St.
+b) Obtener los nombres de los vendedores de frutas(foodgroup=Fruit). 
+c) Obtener el promedio de la cantidad de ingredientes e items cuando el nombre del ingrediente de tipo Vegetable
+8.
+a) Obtener el total del inventario de los ingredientes de tipo bowl. 
+b) Obtner el nombre del item del ingrediente mas caro. 
+c) Mostrar alfabeticamente los nombres de los ingredientes si el nombre del vendedor termina con y.
+9.
+a) Contar el numero de ingredientes de tipo Bread.
+b) Obtener los ingredientes de los vendedores que no fueron recomendados.
+c) Obtener el nombre del item e ingrediente que se usan una cantidad mayor a 5.
+10. 
+a) Obtener los ingredientes de los proveedores que fueron recomendados 
+b) Sumar los precios de todos los ingredientes que tengan al menos una 'o' en su nombre
+c) Mostrar alfabeticamente los nombres de los ingredientes donde su inventario es menor al promedio del inventario de todos los ingredientes 

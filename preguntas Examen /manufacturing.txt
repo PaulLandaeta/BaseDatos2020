@@ -1,0 +1,16 @@
+1.
+a) Obtener el nombre del cliente y el numero de contacto de las ordenes enviadas por Bus.
+b) Obtener los nombres de los empleados que asistieron el '2018-09-29'.
+c) Mostrar alfabaticamente los usernames y passwords de todos los clientes.
+2.
+a) Mostrar los datos de la factura del cliente nc1
+b) Obtener el email de los empleados que tiene asistencia el mes de septiembre. 
+c) Obtener el username y password de los clientes que enviaron ordenes por Bus.
+3. 
+a) Obtener el nombre de los clientes que dieron un feedback bueno 'good'. 
+b) Obtener los nombres de los empleados que asistieron el '2018-09-27'.
+c) Obtener los clientes que sus correos terminen en .com y sus ordenes esten en estado 'Not ready'.
+4.
+a) Obtener el nombre del cliente y el item de las ordenes no enviadas por Bus.
+b) Mostrar alfabeticament los usernames de los clientes que no dieron feedback. 
+c) Contar el numero de material que provee el proveedor con correo gmail.

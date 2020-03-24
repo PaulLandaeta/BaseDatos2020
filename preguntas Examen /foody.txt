@@ -1,0 +1,22 @@
+1. 
+a) Obtener el numero telefonico y el apellido de las ordenes con cantidad 2.
+b) Sumar todos los pagos online(ONLINE_PAYMENT) de las ordenes con estado DELIVERED.
+c) Obtener el numero de tarjeta de los usuarios que pagaron online (ONLINE_PAYMENT).
+2.
+a) Obtener las ordenes de los clientes que tengan el numero 12 en su correo.
+b) obtener el nombre del cliente y el numero de tarjeta de las tarjetas de credito que expiran el 2022.
+c) Obtener el nombre del menu y el precio de las ordenes que fueron pagados con cash 'CASH_ON_DELIVERY'.
+3.
+a) Mostrar los nombres de los clientes donde su tarjeta de credito contenga la palabra 'ins'.
+b) Obtener el pincode y nombre de los clientes con ordenes pagadas de forma online (ONLINE_PAYMENT).
+c) Mostrar el status de las ordenes donde el costo del menu es mayor al promedio (promedio del costo de todos los menus).
+4.
+a) Obtener los nombres de los clientes que su tarjeta de credito ya haya expirado.
+b) Obtener el nombre del album de la cancion que tenga en su nombre la letra 'y'.
+c) Mostrar los nombres alfabeticamente de los clientes de las ordenes con status 'DELIVERED' y cantidad 2.
+5. 
+a) Obtener el nombre del menu de las ordenes con estado PAYMENT_CONFIRMED.
+b) Mostrar los nombres de los clientes donde su tarjeta de credito termine en la palabra 'ton'.
+c) Contar el numero de pagos con efectivo del cliente max.
+ 
+
